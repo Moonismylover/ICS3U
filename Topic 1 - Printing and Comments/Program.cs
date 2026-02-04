@@ -6,6 +6,9 @@ namespace Topic_1___Printing_and_Comments
     {
         static void Main(string[] args)
         {
+            // Sets the title of the console window
+            Console.Title = "Topic 1 - Printing and Comments";  
+
             // Console.Writeline(); = print()
             Console.WriteLine("Hello, World!");
 
